@@ -44,7 +44,7 @@ Setup env (Only Port, this project not connect to Database )
 cp .env.example .env
 ```
 
-### Run Service
+### Run Service (Development Mode)
 
 run current service after all dependencies installed
 
@@ -52,7 +52,7 @@ run current service after all dependencies installed
 make start-http
 ```
 
-### Build Apps
+### Build to Binary Executable
 
 run current service after all dependencies installed
 
