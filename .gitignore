@@ -7,4 +7,3 @@ vendor
 go.sum
 .vscode
 docs/
-storage/
