@@ -52,7 +52,7 @@ run current service after all dependencies installed
 make start-http
 ```
 
-### Build to Binary Executable
+### Build to Binary Executable (Production Build)
 
 run current service after all dependencies installed
 
@@ -60,7 +60,7 @@ run current service after all dependencies installed
 make build
 ```
 
-### Run Service (Binary Build)
+### Run Service (Production Running)
 
 run current service build binary project
 
@@ -70,6 +70,7 @@ make run-http
 
 ## Service & Postman Collection
 
+- include Dockerfile Build if using container
 - healthy check
 - Convert image files from PNG to JPEG.
 - Convert image files from PNG to JPEG.
