@@ -29,7 +29,7 @@ There is some dependencies that we used in this skeleton:
 clone this repository
 
 ```bash
-git clone github.com/Zainal21/Ubersnap-backend-test.git
+git clone https://github.com/Zainal21/Ubersnap-Backend-Engineer-Test.git
 ```
 
 install required dependencies
