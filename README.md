@@ -73,7 +73,6 @@ make run-http
 - include Dockerfile Build if using container
 - healthy check
 - Convert image files from PNG to JPEG.
-- Convert image files from PNG to JPEG.
 - Resize images according to specified dimensions (width and height).
 - Compress images to reduce file size while maintaining reasonable quality.
 
